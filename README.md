@@ -31,7 +31,7 @@ I'm continually aiming to:
 If you're interested in collaborating or have any suggestions:
 
 - **Email**: huzaifahsaifuddin@gmail.com
-- **GitHub**: [github](https://github.com/huzaifahsaifuddin)
-- **LinkedIn**: [LinkedIn](www.linkedin.com/in/huzaifah-saifuddin-642ba4327/)
-Thanks for stopping by!
+- **GitHub**: (https://github.com/huzaifahsaifuddin)
+- **LinkedIn**: (www.linkedin.com/in/huzaifah-saifuddin-642ba4327/
+#Thanks for stopping by!
 
